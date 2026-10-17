@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: autodrive_roboracer
+Version: 0.1.0
+Summary: AutoDRIVE Ecosystem ROS 2 Package for RoboRacer
+Maintainer: Chinmay Vilas SamakTanmay Vilas Samak
+Maintainer-email: csamak@clemson.edutsamak@clemson.edu
+License: BSD
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
